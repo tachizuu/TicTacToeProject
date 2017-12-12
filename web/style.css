@@ -1,0 +1,51 @@
+#container
+{
+    height: 26em;
+    margin-top: 1em;
+    min-width: 22em !important;
+}
+
+#top
+{
+    height: 100%;
+    box-shadow: 0px 5px 20px 0px #aaa;
+}
+
+#gamebox
+{
+    height: 100%;
+}
+
+#game
+{
+    height: 20em;
+    width: 20em;
+    border: 1px solid #aaa;
+}
+
+#game div
+{
+    height: 33.333%;
+    width: 33.333%;
+    float: left;
+    border: 1px solid #aaa;
+}
+
+#queue
+{
+    height: 100%;
+}
+
+#users
+{
+    height: 85%;
+    box-shadow: 0px 5px 10px 0px #aaa inset;
+    padding-top: 1em;
+}
+
+ul
+{
+    list-style-type: none;
+    padding-left: 1.5em;
+    
+}
